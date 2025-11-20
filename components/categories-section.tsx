@@ -25,7 +25,7 @@ const allCategories: Category[] = [
   { id: "breads", name: "Breads", image: "breads.jpg" },
   { id: "appetizer", name: "Appetizers", image: "appetizer.jpg" },
   { id: "beverage", name: "Beverages", image: "beverage.jpg" },
-  { id: "bevege", name: "Beveres", image: "bevege.jpg" },
+  { id: "jana", name: "jana", image: "bevege.jpg" },
 ]
 
 interface CategoriesSectionProps {
