@@ -15,7 +15,7 @@ const menuData: Record<string, MenuItem[]> = {
       name: "Margherita Pizza",
       description: "Classic tomato, mozzarella, basil",
       price: "₹399",
-      image: "margherita-pizza.jpg",
+      image: "https://ik.imagekit.io/jnyananjan/default-image.jpg?updatedAt=1764607157309",
     },
     {
       id: "2",
