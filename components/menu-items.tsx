@@ -197,67 +197,72 @@ const menuData: Record<string, MenuItem[]> = {
     { id: "7", name: "Egg Biryani", description: "Boiled eggs layered", price: "₹279", image: "egg-biryani.jpg" 
     },
   ],
-  salad: [
+  rice: [
     {
       id: "1",
-      name: "Caesar Salad",
-      description: "Romaine, parmesan, croutons",
+      name: "Steamed Rice",
+      description: "Plane Rice",
       price: "₹299",
-      image: "caesar-salad.jpg",
+      image: "steamed-rice.jpg",
     },
-    { id: "2", name: "Greek Salad", description: "Feta, olives, tomatoes", price: "₹349", image: "greek-salad.jpg" },
+    { 
+      id: "2", 
+      name: "Jeera Rice", 
+      description: "Steamed Rice with Jeera", 
+      price: "₹349", 
+      image: "jeera-rice.jpg" 
+    },
     {
       id: "3",
-      name: "Garden Fresh",
-      description: "Mixed greens and vegetables",
+      name: "Basanti Pulao",
+      description: "Nicely cooked pulao",
       price: "₹279",
-      image: "garden-fresh-salad.jpg",
+      image: "basanti-pulao.jpg",
     },
     {
       id: "4",
-      name: "Caprese Salad",
-      description: "Tomato, mozzarella, basil",
+      name: "Veg Pulao",
+      description: "Veg Pulao",
       price: "₹329",
-      image: "caprese-salad.jpg",
+      image: "vej-pulao.jpg",
     },
-    { id: "5", name: "Quinoa Bowl", description: "Protein-rich quinoa blend", price: "₹399", image: "quinoa-bowl.jpg" },
+    { 
+      id: "5", 
+      name: "Kashmiri Pulao", 
+      description: "Kashmiri Flavour Pulao", 
+      price: "₹399", 
+      image: "kashmiri-pulao.jpg" 
+    },
     {
       id: "6",
-      name: "Spinach Salad",
-      description: "Fresh spinach with berries",
+      name: "Bengali Fried Rice (Veg)",
+      description: "Moat Famous Vej Fried Rice",
       price: "₹359",
-      image: "spinach-salad.jpg",
+      image: "bengali-fried-rice.jpg",
     },
     {
       id: "7",
-      name: "Beetroot Salad",
-      description: "Roasted beetroot blend",
+      name: "Egg Fried Rice",
+      description: "Fried Rice with egg",
       price: "₹319",
-      image: "beetroot-salad.jpg",
+      image: "egg-fried-rice.jpg",
     },
     {
       id: "8",
-      name: "Chicken Salad",
-      description: "Grilled chicken with greens",
+      name: "Chicken Fried Rice",
+      description: "Grilled chicken with Fried Rice",
       price: "₹429",
-      image: "chicken-salad.jpg",
+      image: "chicken-fried-rice.jpg",
     },
     {
       id: "9",
-      name: "Asian Fusion",
-      description: "Sesame ginger dressing",
+      name: "Mixed Fried Rice",
+      description: "Mixed Taste Fried Rice",
       price: "₹389",
-      image: "asian-fusion-salad.jpg",
-    },
-    {
-      id: "10",
-      name: "Mediterranean Salad",
-      description: "Olives, herbs, olive oil",
-      price: "₹369",
-      image: "mediterranean-salad.jpg",
+      image: "mixed-fried-rice.jpg",
     },
   ],
-  dessert: [
+  chicken: [
     { id: "1", name: "Chocolate Cake", description: "Rich dark chocolate", price: "₹249", image: "chocolate-cake.jpg" },
     { id: "2", name: "Cheesecake", description: "Creamy New York style", price: "₹299", image: "cheesecake.jpg" },
     { id: "3", name: "Brownie", description: "Fudgy chocolate brownie", price: "₹199", image: "brownie.jpg" },
@@ -509,7 +514,7 @@ const menuData: Record<string, MenuItem[]> = {
     },
     { id: "10", name: "Noodle Soup", description: "Warm noodles in broth", price: "₹199", image: "noodle-soup.jpg" },
   ],
-  rice: [
+  rhhgge: [
     {
       id: "1",
       name: "Fried Rice",
