@@ -6,9 +6,9 @@ const geistSans = Geist({ subsets: ["latin"] })
 const geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Savoria - Restaurant Menu",
+  title: "PizzaHut Web Menu",
   description: "Discover exquisite flavors",
-    generator: 'v0.app'
+    generator: "Jnyananjan"
 }
 
 export default function RootLayout({
