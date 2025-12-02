@@ -16,7 +16,7 @@ export default function MenuSection({ category, onBack }: MenuSectionProps) {
     rice: "Rice Items",
     chicken: "Chicken Main Course",
     mutton: "Mutton Main Course",
-    mexican: "Mexican",
+    tandoori-chicken: "Tandoori Chicken",
     seafood: "Seafood",
     tandoori: "Tandoori",
     noodles: "Noodles",
