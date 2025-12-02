@@ -159,17 +159,17 @@ const menuData: Record<string, MenuItem[]> = {
   biryani: [
     {
       id: "1",
-      name: "Chicken Hyderabadi Biryani",
+     name: "Hyderabadi Chicken Biryani",
       description: "Fragrant basmati rice with chicken pieces",
       price: "₹349",
-      image: "chicken-hyderabadi-biryani.jpg",
+      image: "hyderabadi-chicken-biryani.jpg",
     },
     {
       id: "2",
-      name: "Mutton Hyderabadi Biryani",
+      name: "Hyderabadi Mutton Biryani",
       description: "Tender mutton pieces",
       price: "₹449",
-      image: "mutton-hyderabadi-biryani.jpg",
+      image: "hyderabadi-mutton-biryani.jpg",
     },
     {
       id: "3",
