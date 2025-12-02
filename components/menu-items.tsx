@@ -263,29 +263,73 @@ const menuData: Record<string, MenuItem[]> = {
     },
   ],
   chicken: [
-    { id: "1", name: "Chocolate Cake", description: "Rich dark chocolate", price: "₹249", image: "chocolate-cake.jpg" },
-    { id: "2", name: "Cheesecake", description: "Creamy New York style", price: "₹299", image: "cheesecake.jpg" },
-    { id: "3", name: "Brownie", description: "Fudgy chocolate brownie", price: "₹199", image: "brownie.jpg" },
-    { id: "4", name: "Tiramisu", description: "Classic Italian dessert", price: "₹279", image: "tiramisu.jpg" },
-    { id: "5", name: "Fruit Tart", description: "Fresh seasonal fruits", price: "₹269", image: "fruit-tart.jpg" },
-    { id: "6", name: "Gulab Jamun", description: "Sweet milk dumplings", price: "₹149", image: "gulab-jamun.jpg" },
-    { id: "7", name: "Kheer", description: "Rice pudding with cardamom", price: "₹129", image: "kheer.jpg" },
-    {
-      id: "8",
-      name: "Pistachio Kulfi",
-      description: "Traditional frozen dessert",
-      price: "₹99",
-      image: "pistachio-kulfi.jpg",
+    { 
+     id: "1", 
+     name: "Chicken Kosha / Curry", 
+     description: "Chicken with thick, and spicy semi dry gravy",
+     price: "₹249", 
+     image: "chicken-kosha-curry.jpg" 
     },
-    { id: "9", name: "Mango Sorbet", description: "Refreshing fruit sorbet", price: "₹169", image: "mango-sorbet.jpg" },
-    {
+    { 
+						id: "2", name: "Chicken Do Pyaza", 
+	 	  	description: "Chicken with flavorful curry with a distinct taste", 
+						price: "₹299", 
+						image: "chicken-do-pyaza.jpg" 
+					},
+    { 
+     id: "3", name: "Kadai Chicken", 
+     description: "Chicken with tomato based gravy with a blend of freshly ground spices", 
+     price: "₹199", 
+     image: "kadai-chicken.jpg" 
+     },
+     { 
+     id: "4", 
+     name: "Butter Chicken", 
+     description: "Chicken cooked in a spiced tomato and butter based gravy",
+     price: "₹249", 
+     image: "butter-chicken.jpg" 
+    },
+    { 
+						id: "5", name: "Chicken Tikka Masala", 
+	 	  	description: "Roasted marinated chicken pieces in a spiced sauce", 
+						price: "₹299", 
+						image: "chicken-tikka-masala.jpg" 
+					},
+    { 
+     id: "6", name: "Handi Chicken", 
+     description: "Chicken pieces simmered in a creamy gravy", 
+     price: "₹199", 
+     image: "handi-chicken.jpg" 
+     },
+     {
+      id: "7",
+      name: "Chicken Bharta",
+      description: "Chicken in a creamy, spicy, and tangy gravy",
+      price: "₹99",
+      image: "chicken-bharta.jpg",
+     },
+     {
+      id: "8",
+      name: "Chicken Nizami Masala",
+      description: "chicken in a creamy blend of yogurt, ground nuts and fragrant whole spices",
+      price: "₹99",
+      image: "chicken-nizami-masala.jpg",
+     },
+     { 
+      id: "9", 
+      name: "Mango Sorbet", 
+      description: "Refreshing fruit sorbet", 
+      price: "₹169", 
+      image: "mango-sorbet.jpg" 
+     },
+     {
       id: "10",
       name: "Crème Brûlée",
       description: "Caramelized sugar custard",
       price: "₹329",
       image: "creme-brulee.jpg",
-    },
-  ],
+     },
+   ],
   chinese: [
     {
       id: "1",
