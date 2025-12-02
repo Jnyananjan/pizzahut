@@ -353,7 +353,7 @@ const menuData: Record<string, MenuItem[]> = {
       image: "mutton-nizami-masala.jpg",
     },
   ],
-  tandoori-chicken: [
+  tandoori: [
     { 
       id: "1", 
       name: "Tandoori Chicken Half", 
