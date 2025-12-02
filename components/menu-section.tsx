@@ -18,7 +18,7 @@ export default function MenuSection({ category, onBack }: MenuSectionProps) {
     mutton: "Mutton Main Course",
     tandoori: "Tandoori Chicken",
     seafood: "Seafood",
-    tandoori: "Tandoori",
+    tandi: "Taori",
     noodles: "Noodles",
     re: "Ricewls",
     breads: "Breads",
