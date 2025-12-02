@@ -624,7 +624,7 @@ const menuData: Record<string, MenuItem[]> = {
     },
     { id: "7", name: "Butter Garlic Chicken", description: "Tender chicken, pan-fried or grilled, and coated in a rich, savory, and creamy sauce made from butter, garlic, and other seasonings like herbs or chili flakes", price: "₹39", image: "butter-garlic-chicken.jpg" 
     },
-    { id: "8", name: "Chicken Lollipop", description: "Made from frenched chicken winglets or drumettes, where the meat is cut loose from the bone end and pushed down to create a round, "lollipop" shape around the exposed bone", price: "₹49", image: "chicken-lollipop.jpg" 
+    { id: "8", name: "Chicken Lollipop", description: "Made from frenched chicken winglets or drumettes, where the meat is cut loose from the bone end and pushed down to create a round, lollipop shape around the exposed bone", price: "₹49", image: "chicken-lollipop.jpg" 
     },
     { id: "9", name: "Drums of Heaven", description: "Crispy, deep-fried chicken lollipops that have been tossed in a rich, sweet, and spicy sauce", price: "₹79", image: "drums-of-heaven.jpg" 
     },
