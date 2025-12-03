@@ -17,7 +17,6 @@ const menuData: Record<string, MenuItem[]> = {
       price: "₹399",
       image: "https",
     },
-<h2>Hi</h2>
     {
       id: "2",
       name: "Pepperoni Pizza",
@@ -664,10 +663,18 @@ const menuData: Record<string, MenuItem[]> = {
     { id: "5", name: "Chicken Popcorn", description: "Chicken wings pakora", price: "₹149", image: "chicken-popcorn.jpg" },
     { id: "6", name: "Chicken Fingers", description: "Crispy Chicken Fingers", price: "₹129", image: "chicken-fingers.jpg" },
     { id: "7", name: "Fish Fingers", description: "Fried fish pieces", price: "₹229", image: "fish-fingers.jpg" },
-    { id: "8", image: "momo.jpg"}
-  ],
-  momos: [
-    { id: "1", name: "Veg Momo (Fried/Steamed)", description: "Veg Momo", price: "₹109", image: "veg-momo.jpg" },
+    
+    { id: "8", name: "Veg Momo (Fried/Steamed)", description: "Veg Momo", price: "₹109", image: "veg-momo.jpg" },
+    { id: "9", name: "Chicken Momo (Fried/Steamed)", description: "Chicken momo", price: "₹139", image: "chicken-momo.jpg" },
+    {
+      id: "10",
+      name: "Sizzler Momo (Veg/Non-Veg)",
+      description: "Sizzler Momo",
+      price: "₹169",
+      image: "sizzler-momo.jpg",},
+   ],
+  rolls: [ 
+    { id: "1", name: "Veg Roll", description: "Veg Roll", price: "₹109", image: "veg-roll.jpg" },
     { id: "2", name: "Chicken Momo (Fried/Steamed)", description: "Chicken momo", price: "₹139", image: "chicken-momo.jpg" },
     {
       id: "3",
@@ -676,6 +683,14 @@ const menuData: Record<string, MenuItem[]> = {
       price: "₹169",
       image: "sizzler-momo.jpg",
     },
+    { id: "4", name: "Veg Momo (Fried/Steamed)", description: "Veg Momo", price: "₹109", image: "veg-momo.jpg" },
+    { id: "5", name: "Chicken Momo (Fried/Steamed)", description: "Chicken momo", price: "₹139", image: "chicken-momo.jpg" },
+    {
+      id: "6",
+      name: "Sizzler Momo (Veg/Non-Veg)",
+      description: "Sizzler Momo",
+      price: "₹169",
+      image: "sizzler-momo.jpg",},
 ],
   beverage: [
     { id: "1", name: "Lassi", description: "Yogurt drink", price: "₹99", image: "lassi.jpg" },
