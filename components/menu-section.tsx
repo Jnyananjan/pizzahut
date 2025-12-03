@@ -22,7 +22,7 @@ export default function MenuSection({ category, onBack }: MenuSectionProps) {
     chinesenonveg: "Chinese Non Veg",
     tandooribreads: "Tandoori Breads",
     indiansidedishes: "Indian Side Dishes (Veg)",
-    appetizer: "Appetizers",
+    starter: "starters",
     beverage: "Beverages",
     jana: "jana",
   
