@@ -23,7 +23,8 @@ const allCategories: Category[] = [
   { id: "chinesenonveg", name: "Chinese Non Veg", image: "chinesenonveg.jpg" },
   { id: "tandooribreads", name: "Tandoori Breads", image: "tandooribreads.jpg" },
   { id: "indiansidedishes", name: "Indian Side Dishes (Veg)", image: "indiansidedishes.jpg" },
-  { id: "starter", name: "starters", image: "starter.jpg" },
+  { id: "starter", name: "Starters and Momos", image: "starter.jpg" },
+  { id: "roll", name: "Rolls and Sandwiches", image: "roll.jpg" },
   { id: "beverage", name: "Beverages", image: "beverage.jpg" },
   { id: "jana", name: "jana", image: "bevege.jpg" },
 ]
