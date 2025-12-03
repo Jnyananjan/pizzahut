@@ -24,8 +24,9 @@ export default function MenuSection({ category, onBack }: MenuSectionProps) {
     indiansidedishes: "Indian Side Dishes (Veg)",
     starter: "Starters and Momos",
     rolls: "Rolls and Sandwiches",
+    soup: "Soup",
     beverage: "Beverages",
-    jana: "jana",
+    drinks: "Drinks",
   
   }
 
