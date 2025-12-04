@@ -94,7 +94,7 @@ const menuData: Record<string, MenuItem[]> = {
       name: "Veg Patty Burger",
       description: "Pure Vej",
       price: "₹299",
-      image: "veg-patty-burger.jpg",
+      image: "https://ik.imagekit.io/jnyananjan/menu-items/veg-patty-burger.jpg?updatedAt=1764828981246",
     },
     {
       id: "2",
