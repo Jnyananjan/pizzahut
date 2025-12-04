@@ -58,9 +58,9 @@ export default function CategoriesSection({ onSelectCategory }: CategoriesSectio
             <Image
               src={category.image || "/placeholder.svg"}
               alt={category.name}
-              width={80}
-              height={80}
-              className="w-20 h-20 object-cover rounded-full group-hover:scale-110 transition-transform"
+              width={128}
+              height={128}
+              className="w-32 h-32 object-cover rounded-full group-hover:scale-110 transition-transform"
             />
           </button>
         ))}
