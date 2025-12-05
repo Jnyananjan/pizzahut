@@ -66,7 +66,7 @@ export default function Footer() {
                 className="w-12 h-12 bg-primary hover:bg-opacity-80 rounded-full flex items-center justify-center transition-all transform hover:scale-110"
                 title="Follow on Instagram"
               >
-                <img src="https://ik.imagekit.io/jnyananjan/Logo/instagram.png?updatedAt=1764919060888" alt="Instagram" className="w-full h-full object-cover" />
+                <img src="/instagram.png" alt="Instagram" className="w-full h-full object-cover" />
 
               </a>
 
@@ -77,7 +77,7 @@ export default function Footer() {
                 className="w-12 h-12 bg-primary hover:bg-opacity-80 rounded-full flex items-center justify-center transition-all transform hover:scale-110"
                 title="Follow on Facebook"
               >
-                <img src="https://ik.imagekit.io/jnyananjan/Logo/facebook.png?updatedAt=1764919061123" alt="Facebook" className="w-full h-full object-cover" />
+                <img src="/facebook.png" alt="Facebook" className="w-full h-full object-cover" />
 
               </a>
 
@@ -88,7 +88,7 @@ export default function Footer() {
                 className="w-12 h-12 bg-primary hover:bg-opacity-80 rounded-full flex items-center justify-center transition-all transform hover:scale-110"
                 title="Chat on WhatsApp"
               >
-                <img src="https://ik.imagekit.io/jnyananjan/Logo/whatsapp.png?updatedAt=1764919060965" alt="WhatsApp" className="w-full h-full object-cover" />
+                <img src="/whatsapp.png" alt="WhatsApp" className="w-full h-full object-cover" />
 
               </a>
             </div>
