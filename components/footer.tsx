@@ -66,7 +66,7 @@ export default function Footer() {
                 className="w-12 h-12 bg-primary hover:bg-opacity-80 rounded-full flex items-center justify-center transition-all transform hover:scale-110"
                 title="Follow on Instagram"
               >
-                <img src="/instagram.png" alt="Instagram" className="w-full h-full object-cover" />
+                <img src="/logo/instagram.png" alt="Instagram" className="w-full h-full object-cover" />
 
               </a>
 
@@ -77,7 +77,7 @@ export default function Footer() {
                 className="w-12 h-12 bg-primary hover:bg-opacity-80 rounded-full flex items-center justify-center transition-all transform hover:scale-110"
                 title="Follow on Facebook"
               >
-                <img src="/facebook.png" alt="Facebook" className="w-full h-full object-cover" />
+                <img src="/logo/facebook.png" alt="Facebook" className="w-full h-full object-cover" />
 
               </a>
 
@@ -88,7 +88,7 @@ export default function Footer() {
                 className="w-12 h-12 bg-primary hover:bg-opacity-80 rounded-full flex items-center justify-center transition-all transform hover:scale-110"
                 title="Chat on WhatsApp"
               >
-                <img src="/whatsapp.png" alt="WhatsApp" className="w-full h-full object-cover" />
+                <img src="/logo/whatsapp.png" alt="WhatsApp" className="w-full h-full object-cover" />
 
               </a>
             </div>
@@ -100,7 +100,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="text-center text-muted-foreground">
-          <p>&copy; 2025 Savoria Restaurant. All rights reserved.</p>
+          <p>&copy; 2025 PizzaHut Restaurant. All rights reserved.</p>
         </div>
       </div>
     </footer>
