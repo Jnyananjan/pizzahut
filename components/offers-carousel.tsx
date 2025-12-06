@@ -7,7 +7,7 @@ const offers = [
   { id: 1, title: "50% OFF Pizza", subtitle: "On orders above $50", image: "offer1.jpg" },
   { id: 2, title: "30% OFF Burgers", subtitle: "Valid this weekend", image: "offer2.jpg" },
   { id: 3, title: "Free Dessert", subtitle: "With every main course", image: "offer3.jpg" },
-  { id: 4, title: "₹0 Delivery", subtitle: "On orders above ₹300", image: "offer4.jpg" },
+  { id: 4, image: "offer4.jpg" },
 ]
 
 export default function OffersCarousel() {
